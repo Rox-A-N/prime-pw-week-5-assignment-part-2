@@ -1,0 +1,26 @@
+header {
+    color: rgb(183, 162, 160);
+    background-color: rgb(99, 2, 2);
+    text-align: center;
+}
+
+main {
+    background-color:rgb(154, 160, 165);
+    padding: 1em;
+}
+
+html {
+    background-image: url(record.png);
+    background-position: center center;   /* This will keep the image centered when viewing window is resized*/
+    background-repeat: repeat-x repeat-y;
+}
+
+body {
+    margin: 0;
+}
+
+.console {
+    font-weight: 800;
+    color:darkred;
+    text-transform: uppercase;
+}
